@@ -11,16 +11,12 @@
 
 ## **_Index_**
 - [About](#About)
-- [UI/UX](#UI/UX)
-- [Instructions](#Instruction)
-  * [How to commit in CLI](#Instruction)
-  * [How to sync your forked repository](#Instruction)
-
-- [Implementation](#implementation)
-  * [Libraries/modules Used](#Libraries/modules-used)
-  * [Concept used](#Concept-used)
-  * [Frequently used terms](#Frequently-used-terms)
-  * [Data-set used](#Data-set-used)
+- [How to commit in CLI](#Instruction)
+- [How to sync your forked repository](#Instruction)
+- [Libraries/modules Used](#Libraries/modules-used)
+- [Concept used](#Concept-used)
+- [Frequently used terms](#Frequently-used-terms)
+- [Data-set used](#Data-set-used)
 - [Demo & Screenshots](#Demo)
 - [Project References](#project-references)
 - [License](#license)
@@ -99,7 +95,7 @@ Bernoulli: Useful if your feature vectors are binary (i.e., zeros and ones). An 
 - - [Python basics Datacamp](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 - [CampusX YouTube numpy playlist](https://www.youtube.com/playlist?list=PLKnIA16_Rmvb-ToL3RQ_bwxG4_ND-0-DT)
 - [CampusX YouTube pandas playlist](https://youtube.com/playlist?list=PLfP3JxW-T70Gf4iJXPb0Yw5_-tDRCD6LB)
-- [CampusX Youtube Naive Bayes playlist] (https://www.youtube.com/playlist?list=PLKnIA16_RmvZ67wQaHoBuzXaDAfPz-a6l)
+- [CampusX Youtube Naive Bayes playlist](https://www.youtube.com/playlist?list=PLKnIA16_RmvZ67wQaHoBuzXaDAfPz-a6l)
 
 ## License
 
