@@ -92,7 +92,7 @@ Bernoulli: Useful if your feature vectors are binary (i.e., zeros and ones). An 
 ## Project References
 - [Streamlit Docs](https://docs.streamlit.io)
 - [Rapid APIs](https://www.rapitapi.com/)
-- - [Python basics Datacamp](https://www.datacamp.com/courses/intro-to-python-for-data-science)
+- [Python basics Datacamp](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 - [CampusX YouTube numpy playlist](https://www.youtube.com/playlist?list=PLKnIA16_Rmvb-ToL3RQ_bwxG4_ND-0-DT)
 - [CampusX YouTube pandas playlist](https://youtube.com/playlist?list=PLfP3JxW-T70Gf4iJXPb0Yw5_-tDRCD6LB)
 - [CampusX Youtube Naive Bayes playlist](https://www.youtube.com/playlist?list=PLKnIA16_RmvZ67wQaHoBuzXaDAfPz-a6l)
